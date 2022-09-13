@@ -1,0 +1,42 @@
+body {
+  text-align: center;
+}
+
+
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border-color: black;
+  border-radius: 20%;
+}
+
+.red {
+  background-color: rgb(189, 22, 22);
+}
+
+.green {
+  background-color: #50C878;
+}
+
+.blue {
+  background-color: #2a527f;
+}
+
+.yellow {
+  background-color: rgb(223, 223, 44);
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
