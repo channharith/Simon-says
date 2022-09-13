@@ -12,7 +12,10 @@ Simon Says
 List of the Technologies used
 
 A Computer, Visual Studio Code, and Imagination.
+
 Installation instructions
+
+During the course of this project, I installed Google Chrome, Visual Studio Code, and an extension of Visual Studio Code called 'LiveServer'.
 
 Your User stories – who are your users, what do they want and why?
 
