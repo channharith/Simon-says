@@ -5,8 +5,8 @@ Unit 1 Project
 
 Simon Says
 
+<img width="1120" alt="Screen Shot 2022-09-13 at 2 06 14 PM" src="https://user-images.githubusercontent.com/111589242/189977667-a1f828f2-9cba-46cb-876e-014ed7c78337.png">
 
-<img width="1120" alt="Overview of Simon Says" src="https://user-images.githubusercontent.com/111589242/189973581-f8d3a2ff-c988-4d86-9969-c5d632036284.png">
 
 
 List of the Technologies used
