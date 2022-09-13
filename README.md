@@ -3,7 +3,8 @@ Unit 1 Project
 Simon Says
 
 
-An embedded screenshot of the app ![](Overview of Simon Says.png)
+<img width="1120" alt="Overview of Simon Says" src="https://user-images.githubusercontent.com/111589242/189973581-f8d3a2ff-c988-4d86-9969-c5d632036284.png">
+
 
 List of the Technologies used
 
@@ -15,7 +16,8 @@ Your User stories – who are your users, what do they want and why?
 My users include the players. myself and the people who wish to use my game as a model.
 Your Wireframes – sketches of major views / interfaces in your application
 
-![] (FrameWork.jpeg)
+![FrameWork](https://user-images.githubusercontent.com/111589242/189973612-b47e5b8d-26ef-4906-9d69-d2a344e82f72.jpeg)
+
 
 Descriptions of any Unsolved problems or major hurdles you had to overcome
 
